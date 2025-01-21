@@ -1,0 +1,6 @@
+pip install ffmpeg
+pip install whisper
+
+IMP: download ffmpeg, unzip it, add the exe file directory to the PATH
+
+video file transcribed in this example: https://www.youtube.com/watch?v=sTenlPOUOcU
